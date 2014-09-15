@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See the [wiki](https://github.com/keichan34/rails_helpers/wiki) for documentation, usage, and examples.
 
 ## Contributing
 
